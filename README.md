@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
-## "I wanted orange, it gave me lemon lime"ś
 
->>>>>>> 7176a9553890c5c7222a02b723318b6dc0985732
+## "I wanted orange, it gave me lemon lime"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
