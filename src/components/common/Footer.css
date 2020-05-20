@@ -1,5 +1,16 @@
 .footer {
-    position: absolute;
-    width: 100%;
     align-content: center;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 60px;
+    width: 100%;
+  }
+
+  .footer_inner {
+    display: block;
+    padding: 20px;
+    height: 60px;
+    width: 100%;
   }

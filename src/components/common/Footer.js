@@ -6,7 +6,9 @@ import './Footer.css';
 function Footer() {
     return (
         <div className="footer">
-            <p>&copy; 2020 Szkoła Reacta</p>
+            <div className="footer_inner">
+                <p>&copy; 2020 Szkoła Reacta</p>
+            </div>
         </div>
     );
 }
