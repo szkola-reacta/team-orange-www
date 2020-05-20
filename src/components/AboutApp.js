@@ -6,7 +6,7 @@ import './AboutApp.css';
 
 function AboutApp () {
     return (
-    <div className="aboutApp">
+    <div className="innerConntent">
         <div className="about-boxed">
             <div className="intro">
                 <h2 className="text-center">Opis Aplikacji "Środki Trwałe" </h2>
