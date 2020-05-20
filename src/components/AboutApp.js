@@ -1,8 +1,5 @@
 import React from 'react';
 import { withRouter } from "react-router-dom";
-import Accordion from 'react-bootstrap/Accordion';
-import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 
 import './AboutApp.css';
 
