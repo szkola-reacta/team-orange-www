@@ -1,15 +1,12 @@
 import React from 'react';
 import { withRouter } from "react-router-dom";
-import Accordion from 'react-bootstrap/Accordion';
-import Card from 'react-bootstrap/Card';
-import Button from 'react-bootstrap/Button';
 
 import './AboutApp.css';
 
 
 function AboutApp () {
     return (
-    <div className="aboutApp">
+    <div className="innerConntent">
         <div className="about-boxed">
             <div className="intro">
                 <h2 className="text-center">Opis Aplikacji "Środki Trwałe" </h2>
