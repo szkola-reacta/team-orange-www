@@ -5,7 +5,7 @@ import Button from 'react-bootstrap/Button';
 
 function Team () {
     return (
-        <div className='team'>
+        <div className='innerConntent'>
             <div className="about-boxed">
             <div className="intro">
                 <h2 className="text-center">Nasz Zespół</h2>
